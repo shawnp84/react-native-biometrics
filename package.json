@@ -30,7 +30,6 @@
     "type": "git",
     "url": "git+https://github.com/shawnp84/react-native-biometrics.git"
   },
-  "private": false,
   "author": {
     "name": "Brandon Hines",
     "url": "https://github.com/NappyPirate"
@@ -44,5 +43,9 @@
   },
   "devDependencies": {
     "typescript": "^4.7.4"
-  }
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "packageManager": "yarn@3.4.1"
 }
