@@ -5,9 +5,9 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"hr-react-native-biometrics@workspace:.":
+"react-native-biometrics@workspace:.":
   version: 0.0.0-use.local
-  resolution: "hr-react-native-biometrics@workspace:."
+  resolution: "react-native-biometrics@workspace:."
   dependencies:
     typescript: ^4.7.4
     yarn: ^1.22.19

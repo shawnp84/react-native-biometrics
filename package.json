@@ -1,5 +1,5 @@
 {
-  "name": "hr-react-native-biometrics",
+  "name": "react-native-biometrics",
   "version": "3.0.1",
   "summary": "A React Native library for biometrics",
   "description": "React Native biometric functionality for signing and encryption",
